@@ -21,26 +21,19 @@
 # Registers:
 
 # File marks:
-'0  1  14  ~/kk.mb
-'1  1  5  ~/project.git/test/ss.md
-'2  1  0  ~/project.git/test/file.md
-'3  1  0  ~/.ssh/authorized_keys
-'4  3  4  ~/project.git/file.md
-'5  1  0  ~/project.git/file.md
-'6  2  6  ~/project.git/file.md
-'7  1  30  ~/project.git/jagan
-'8  1  0  ~/.ssh/auth_keys
-'9  2  0  ~/pro.git/.ssh/auth_keys
+'0  1  0  ~/.ssh/authorized_keys
+'1  1  0  ~/.ssh/auth_keys
+'2  2  0  ~/pro.git/.ssh/auth_keys
+'3  1  378  ~/pro.git/auth_keys
+'4  2  0  ~/pro.git/auth_keys
+'5  2  0  ~/.ssh/auth_keys
+'6  1  0  ~/pro.git/.ssh/auth_keys
+'7  3  0  ~/pro.git/.ssh/auth_keys
+'8  1  0  ~/project.git/keys
+'9  2  0  ~/project.git/keys
 
 # Jumplist (newest first):
--'  1  14  ~/kk.mb
--'  1  5  ~/project.git/test/ss.md
--'  1  0  ~/project.git/test/file.md
 -'  1  0  ~/.ssh/authorized_keys
--'  3  4  ~/project.git/file.md
--'  1  0  ~/project.git/file.md
--'  2  6  ~/project.git/file.md
--'  1  30  ~/project.git/jagan
 -'  1  0  ~/.ssh/auth_keys
 -'  2  0  ~/pro.git/.ssh/auth_keys
 -'  1  0  ~/pro.git/.ssh/auth_keys
@@ -131,26 +124,14 @@
 -'  3  0  ~/.ssh/auth2.keys
 -'  1  0  ~/.ssh/auth2.keys
 -'  3  0  ~/.ssh/auth1_keys
+-'  1  0  ~/project.git/auth_keys
+-'  2  0  ~/project.git/auth_keys
+-'  2  0  ~/.ssh/keys
+-'  1  0  ~/project.git/keys
+-'  2  0  ~/pro.git/.ssh/auth_keys
+-'  5  383  ~/.ssh/auth_keys
 
 # History of marks within files (newest to oldest):
-
-> ~/kk.mb
-	"	1	14
-	^	1	15
-	.	1	15
-	+	1	15
-
-> ~/project.git/test/ss.md
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	5
-
-> ~/project.git/test/file.md
-	"	1	0
-	^	1	6
-	.	1	6
-	+	1	6
 
 > ~/.ssh/authorized_keys
 	"	1	0
@@ -159,22 +140,6 @@
 	+	1	394
 	+	1	395
 	+	1	0
-	+	1	400
-	+	1	0
-
-> ~/project.git/file.md
-	"	3	4
-	^	3	5
-	.	3	5
-	+	1	6
-	+	2	7
-	+	3	5
-
-> ~/project.git/jagan
-	"	1	30
-	^	1	31
-	.	1	30
-	+	1	30
 
 > ~/.ssh/auth_keys
 	"	1	0
